@@ -1,0 +1,3 @@
+Hi I am example for Asyn Patten concept (before async and await)...
+
+content: Now i am calling using only fs module without utils

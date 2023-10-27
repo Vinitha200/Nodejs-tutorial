@@ -21,7 +21,7 @@ require('./MindGrenade/mindgrenade')
 const os = require('./BuiltInModules/osModule')
 
 //FS Module
-const fs = require('./BuiltInModules/fsModule');
+//const fs = require('./BuiltInModules/fsModule'); //umcmd to check the output
 
 //http Module
 const http = require('./BuiltInModules/HTTPModule/httpModule')
@@ -30,7 +30,14 @@ const http = require('./BuiltInModules/HTTPModule/httpModule')
 
 //First Package - lodash
 
-//Share Code:
+//Share Code: using git hib and create gitignore to ignore node module.
 
+//Event loop --- run node .\ImportantTopic\EventLoop.js to
+                 // execute event loop separately to see outputs properly
+//const Event_loop = require('./ImportantTopic/EventLoop')
 
+//Async Pattern
+//require('./ImportantTopic/Async_Pattern/Async_Pattern')
 
+//Native Option -util
+require('./ImportantTopic/Async_Pattern/NodeNativeOption')

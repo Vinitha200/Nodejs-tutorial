@@ -1,0 +1,5 @@
+I have created new write file added both read file Hi I am example for Asyn Patten concept (before async and await)... I am the 2nd fileI have created new write file added both read file Hi I am example for Asyn Patten concept (before async and await)...
+
+content: Now i am calling using only fs module without utils I am the 2nd file
+
+content1: Now i am calling using only fs module without utils
